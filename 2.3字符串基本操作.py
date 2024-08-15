@@ -21,7 +21,7 @@ print(greeting +  " " + name)
 print("1" + "1")
 print("1" *  2)
 print("Alice" * 5)
-#没有减法和出发
+#没有减法和除法
 
 
 str = "iloveu"
